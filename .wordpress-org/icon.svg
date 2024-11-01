@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1200px"
+	 height="1200px" viewBox="0 0 1200 1200" enable-background="new 0 0 1200 1200" xml:space="preserve">
+<g id="bg">
+	<rect fill="#EEEEEE" stroke="#000000" stroke-miterlimit="10" width="1200" height="1200"/>
+</g>
+<g id="spark">
+	<circle fill="#FFFFFF" cx="599.999" cy="600" r="500"/>
+	<circle fill="#E13A8B" cx="598.137" cy="600" r="475"/>
+	<path fill="#FFFFFF" d="M424.776,599.729c0-96.65,78.351-175,175-175c96.65,0,175,78.35,175,175c-0.004,96.65-78.35,175-175,175
+		C503.127,774.729,424.776,696.379,424.776,599.729z"/>
+	<polygon fill="#FFFFFF" points="439.175,725.084 301.163,898.485 474.563,760.472 	"/>
+	<polygon fill="#FFFFFF" points="474.28,438.913 300.876,300.903 438.893,474.301 	"/>
+	<polygon fill="#FFFFFF" points="761.106,474.283 899.12,300.884 725.718,438.896 	"/>
+	<polygon fill="#FFFFFF" points="723.933,759.335 900.876,900.884 759.321,723.947 	"/>
+</g>
+<g id="Guides" display="none">
+	<line display="inline" fill="none" stroke="#000000" stroke-miterlimit="10" x1="0" y1="1075" x2="1199.999" y2="1075"/>
+	<line display="inline" fill="none" stroke="#000000" stroke-miterlimit="10" x1="125" y1="300" x2="1074.999" y2="300"/>
+	<line display="inline" fill="none" stroke="#000000" stroke-miterlimit="10" x1="125" y1="900" x2="1074.999" y2="900"/>
+	<line display="inline" fill="none" stroke="#000000" stroke-miterlimit="10" x1="1.862" y1="125" x2="1201.862" y2="125"/>
+	<line display="inline" fill="none" stroke="#000000" stroke-miterlimit="10" x1="601.862" y1="0" x2="601.862" y2="1200"/>
+	<line display="inline" fill="none" stroke="#000000" stroke-miterlimit="10" x1="126.862" y1="0" x2="126.862" y2="1200"/>
+	<line display="inline" fill="none" stroke="#000000" stroke-miterlimit="10" x1="301.862" y1="0" x2="301.862" y2="1200"/>
+	<line display="inline" fill="none" stroke="#000000" stroke-miterlimit="10" x1="901.862" y1="0" x2="901.862" y2="1200"/>
+	<line display="inline" fill="none" stroke="#000000" stroke-miterlimit="10" x1="1075" y1="0.001" x2="1075" y2="1199.999"/>
+	<line display="inline" fill="none" stroke="#000000" stroke-miterlimit="10" x1="1.862" y1="-0.271" x2="1.862" y2="1199.729"/>
+</g>
+</svg>
